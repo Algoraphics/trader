@@ -1,8 +1,5 @@
 #!python
 #
-#coinbase Key: H0y0wCNUlknzNW3V
-#coinbase Secret: SKe4y8E0BOMAndCXqSnyxY1mmN2SMcO8
-#
 #reddit key 4qYMwrPBzKcVTA
 #reddit secret uDJR1uaBQBVDtU6RWRmRl_CYOOM
 import datetime
