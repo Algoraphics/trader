@@ -1,7 +1,5 @@
 #!python
 #
-#reddit key 4qYMwrPBzKcVTA
-#reddit secret uDJR1uaBQBVDtU6RWRmRl_CYOOM
 import datetime
 import json
 import operator
